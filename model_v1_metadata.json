@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "trained_on": "2026-05-25T18:09:14.417296",
+  "training_rows": 3423,
+  "features": [
+    "Mileage (KM)",
+    "Engine (CC)",
+    "Vehicle Age",
+    "Transmission",
+    "Model Code"
+  ],
+  "model_type": "XGBoost Regressor",
+  "best_param": {
+    "model_n_estimators": 200
+  }
+}
